@@ -388,121 +388,119 @@ http://relaxplease.xyz:25461/code123/freelista/143
 #EXTVLCOPT:http-user-agent=
 http://relaxplease.xyz:25461/code123/freelista/144
 #EXTINF:-1,MX | Espn Sec Network
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/145
 #EXTINF:-1,PE | Gol Peru HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/146
 #EXTINF:-1,PE | Movistar Deportes
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/147
 #EXTINF:-1,LAT-HD | Fox Sports 1 MX HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/148
 #EXTINF:-1,LAT-HD | Fox Sports 2 MX HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/149
 #EXTINF:-1,LAT-HD | Fox Sports 3 MX HD
-#EXTVLCOPT:http-user-agent=
 http://relaxplease.xyz:25461/code123/freelista/150
 #EXTINF:-1,LAT-HD | Fox Sports 3 Sur HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/151
 #EXTINF:-1,#Vamos Bar 720
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/152
 #EXTINF:-1,ES* | Real Madrid TV HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/153
 #EXTINF:-1,ES* | BARcA TV HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/154
-#EXTINF:-1,ES* | BARcA TV 720
-#EXTVLCOPT:http-user-agent=
+#EXTINF:-1,ES* | BARsa TV 720
+
 http://relaxplease.xyz:25461/code123/freelista/155
-#EXTINF:-1,ES* | BARcA TV 720
-#EXTVLCOPT:http-user-agent=
+#EXTINF:-1,ES* | BARsa TV 720
+
 http://relaxplease.xyz:25461/code123/freelista/156
 #EXTINF:-1,ES* | Gol TV
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/158
 #EXTINF:-1,CL | Fox Sports
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/159
 #EXTINF:-1,AR | TNT SPORTS HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/160
 #EXTINF:-1,US | Univision Deportes
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/162
 #EXTINF:-1,CL | CDF BASICO 2 HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/163
 #EXTINF:-1,PE | Gol Peru HD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/164
 #EXTINF:-1,CO | DIRECTV SPORTS 2
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/165
 #EXTINF:-1,LAT-SD | Nat Geo Kids Mex
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/428
 #EXTINF:-1,LAT-SD | Nick 2
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/429
 #EXTINF:-1,LAT-SD | Nick Jr
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/430
 #EXTINF:-1,LAT-SD | Nickelodeon
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/431
 #EXTINF:-1,LAT-SD | Tooncast
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/432
 #EXTINF:-1,LAT-SD | Cartoon Network
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/433
 #EXTINF:-1,LAT-SD | Disney
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/435
 #EXTINF:-1,LAT-SD | Disney XD
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/436
 #EXTINF:-1,LAT-SD | Baby TV
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/437
 #EXTINF:-1,LAT-HD | A&E
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/601
 #EXTINF:-1,LAT-HD | AMC
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/602
 #EXTINF:-1,LAT-HD | AXN
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/603
 #EXTINF:-1,LAT-HD | Az Corazon
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/604
 #EXTINF:-1,LAT-HD | Azteca Mundo
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/605
 #EXTINF:-1,LAT-HD | Canal Claro
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/606
 #EXTINF:-1,LAT-HD | Cartoon Network
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/607
 #EXTINF:-1,LAT-HD | Claro Sports
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/608
 #EXTINF:-1,LAT-HD | Claro Sports Latinoamerica
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/609
 #EXTINF:-1,LAT-HD | Comedy Central
-#EXTVLCOPT:http-user-agent=
+
 http://relaxplease.xyz:25461/code123/freelista/610
-#EXTINF:-1,LAT-HD | Concert Channel
-#EXTVLCOPT:http-user-agent=
+#EXTINF:-1,LAT-HD | Concert Channell
 http://relaxplease.xyz:25461/code123/freelista/611
 #EXTINF:-1,LAT-HD | Discovery Channel
 
